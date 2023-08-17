@@ -1,0 +1,4 @@
+Test the microservice by making a GET request to the /numbers endpoint with the desired URLs:
+
+
+http://localhost:8080/numbers?url=http://20.244.56.144/numbers/primes&url=http://abc.com/fibo
